@@ -21,6 +21,7 @@
 
 <body class="debug">
   <Header>
+    <!-- NOTE sticky top is sticking the wrong item to the top. Looks like is currently trying to stick a lot of the page and not just the navbar -->
     <div class="sticky-top">
       <div class="container-fluid text-light backinblack">
         <div class="row">
@@ -94,6 +95,7 @@
 
       <div class="container-fluid text-light">
         <div class="row">
+          <!-- FIXME paragraph and spill card need to change order based on desktop/mobile, you will want to probably split each into a col-6 and then you can utilize bootstrap order classes -->
           <div class="col-12">
             <div class="heightthesecond textpass align-content-center">
               <div class=" col-12 paddinglife">
@@ -104,6 +106,7 @@
                       danio
                       goby. Blackchin, blue shark flagtail sucker snubnose eel flathead catfish?</P>
                   </div>
+                  <!-- FIXME check the reference for this card again. -->
                   <section class="flex-md-row magic-card paddingbox">
                     <div class="magic-container">
                       <div class="card">
@@ -153,11 +156,14 @@
         </div>
       </div>
       <div class="container-fluid mainender">
+        <!-- FIXME the order of these cards needs to change based on desktop/mobile size. Middle card, or highlighted card needs to be first / on top when on mobile screen -->
+        <!-- FIXME the cards need to be aligned in the center "beens" is a good reference -->
         <div class="row">
           <div class="col-12">
             <div class=align-content-center>
               <H3> Here is some reviews from out awesome customers</H3>
             </div>
+            <!-- NOTE "READ" reference for columns changing size -->
             <div class="d-flex">
               <div class="col-md-5">
                 <div class="backtown boxytwo marge align-content-center fontem textbox">

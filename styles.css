@@ -84,6 +84,9 @@ img {
   padding-top: 20px;
 }
 
+/* NOTE There are a couple example you can play around with, when using the magic card/container it is important that the CARD portion is INSIDE the container */
+
+/* FIXME this should only be applied on medium+ screens. We will want to make sure we introduce a @media rule */
 .magic-card {
   position: absolute;
   top: 56em;
