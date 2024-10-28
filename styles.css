@@ -1,0 +1,208 @@
+.backinblack {
+  background-color: grey;
+  min-height: 6em;
+}
+
+.margetime {
+  margin-top: .5em;
+}
+
+
+
+.backwhite {
+  background-color: rgb(243, 241, 241);
+  min-height: 10em;
+}
+
+img {
+  max-height: 5em;
+}
+
+.action-bg {
+  background-image: url(https://images.unsplash.com/photo-1678049360187-ade0bfed7e8d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG9sZCUyMG11c3Rhbmd8ZW58MHx8MHx8fDA%3D);
+  background-size: cover;
+  min-height: 35em;
+  background-position: center;
+}
+
+.darkliketheknight {
+  text-shadow: 1PX 3PX 6PX black;
+}
+
+.textchange {
+  color: rgb(248, 243, 243);
+}
+
+
+.fonttime {
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 20;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 20
+}
+
+.fonting {
+  font-size: 2em;
+}
+
+.sizematters {
+  font-size: 1.8em;
+}
+
+.heightthesecond {
+  background-color: rgb(47, 46, 46);
+  min-height: 20em;
+  margin-left: -12px;
+  margin-right: -12px;
+}
+
+.imagesize {
+  min-height: 10em;
+}
+
+.textmoving {
+  padding-left: 15PX;
+  padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.textpass {
+  padding-left: 100px;
+
+
+}
+
+
+.boxoutline {
+  box-shadow: 10x 10x 10x red;
+}
+
+.texting {
+  padding-top: 20px;
+}
+
+.magic-card {
+  position: absolute;
+  top: 56em;
+}
+
+.magic-container {
+  position: relative;
+}
+
+.paddingbox {
+  margin-left: 42em;
+  padding-right: 20em;
+  min-width: 40em;
+  min-height: 20em;
+}
+
+.imgsizing {
+  min-height: 25em;
+  min-width: 25em;
+}
+
+.backgroundtime {
+  background-color: white;
+  min-height: 10px;
+  max-width: 20em;
+
+}
+
+.paddingtime {
+  padding-left: 75%;
+  padding-bottom: 4%;
+  margin-top: -15%;
+  padding-right: 5%;
+}
+
+.textsize {
+  font-size: medium;
+}
+
+.paddinglife {
+  margin-right: 60%;
+  margin-top: 0%;
+  margin-bottom: 5%;
+  padding-right: 50%;
+}
+
+.mainender {
+  background-color: grey;
+  min-height: 18em;
+}
+
+.boxy {
+  margin-top: 0px;
+  margin-left: 10%;
+  margin-bottom: 2em;
+}
+
+.boxytwo {
+  margin-top: 15px;
+}
+
+.backstreetboys {
+  min-height: 12em;
+  background-color: white;
+}
+
+.backtown {
+  min-height: 10em;
+  background-color: white;
+  padding-bottom: 0%;
+}
+
+.marge {
+  margin-right: 0%;
+}
+
+.margetwo {
+  margin-left: 5%;
+}
+
+.imthemap {
+  Background-image: url(https://images.unsplash.com/photo-1520299607509-dcd935f9a839?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFwfGVufDB8fDB8fHww);
+  background-size: cover;
+  background-position: center;
+  min-height: 20em;
+  min-width: 98.8rem;
+}
+
+.mapmargin {
+  margin-top: -1.5em;
+  margin-left: -5em;
+}
+
+.theending {
+  background-color: grey;
+  min-height: 6em;
+  min-width: 98.8em;
+}
+
+.endingtext {
+  margin-top: 2em;
+  margin-left: 20em;
+}
+
+.textbox {
+  padding-left: 5em;
+  margin-left: 1em;
+}
+
+.fontem {
+  font-size: small;
+}
+
+.boxtext {
+  padding-left: 3em;
+  padding-right: 3em;
+  padding-top: 1em;
+}
+
+.thebox {
+  padding-right: 2em;
+}
